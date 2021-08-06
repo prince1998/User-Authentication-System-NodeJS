@@ -1,0 +1,24 @@
+{
+  "name": "user-authentication-system-nodejs",
+  "version": "1.0.0",
+  "description": "User Authentication System using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince1998/User-Authentication-System-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince1998/User-Authentication-System-NodeJS/issues"
+  },
+  "homepage": "https://github.com/prince1998/User-Authentication-System-NodeJS#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
